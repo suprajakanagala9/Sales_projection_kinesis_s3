@@ -33,10 +33,10 @@ amazon-black-friday-sales-insights/
 │   └── transformation_layer_with_lambda.py   # Lambda function for data transformation
 │
 ├── kinesis/
-│   └── kinesis-to-s3-delivery-1-2024-02-16-05-43-56-3b663ffd-54cc-4c76-8f17-134c6f1376cb # Kinesis Firehose configuration
+│   └── kinesis-to-s3-delivery- # Kinesis Firehose configuration
 │
 ├── assets/
-│   └── architecture_diagram.png              # Architecture diagram
+│   └── architecture.png              # Architecture diagram
 │
 └── README.md                                 # Project documentation
 
